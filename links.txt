@@ -1,0 +1,6 @@
+https://www.kaggle.com/datasets/thammuio/all-agriculture-related-datasets-for-india
+https://www.data.gov.in/keywords/Soil%20Moisture
+
+Soil Images:
+https://www.kaggle.com/datasets/jayaprakashpondy/soil-image-dataset
+
